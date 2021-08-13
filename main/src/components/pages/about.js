@@ -37,7 +37,7 @@ export default function About() {
               </div>
               <div class="col-lg-6">
                 <img
-                  src="././img/self.jpeg"
+                  src="main/src/img/self.jpeg"
                   class="img-fluid rounded-circle d-block mx-auto"
                 />
               </div>
