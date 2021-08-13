@@ -22,3 +22,6 @@ export default function Contact() {
     </div>
   );
 }
+
+// add a contact form
+// add target blanks
