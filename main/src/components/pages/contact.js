@@ -8,8 +8,16 @@ export default function Contact() {
       <h2>EMAIL</h2>
       <h2>MESSAGE</h2>
       <ul>
-        <li>github</li>
-        <li>linkedin</li>
+        <li>
+          <a href="mailto:aligon17@gmail.com">aligon17@gmail.com</a>
+        </li>
+        <li>LinkedIn: 
+          <a href="https://www.linkedin.com/in/alexisligon1612/">/alexisligon1612</a>
+        </li>
+        <li>
+          GitHub:
+          <a href="https://github.com/alexisligon">/alexisligon</a>
+        </li>
       </ul>
     </div>
   );
