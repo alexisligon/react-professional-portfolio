@@ -1,5 +1,4 @@
-/* eslint-disable jsx-a11y/alt-text */
-import React from "react";
+import self from '../../img/self.jpeg';
 
 export default function About() {
   return (
@@ -36,10 +35,7 @@ export default function About() {
                 </p>
               </div>
               <div class="col-lg-6">
-                <img
-                  src="main/src/img/self.jpeg"
-                  class="img-fluid rounded-circle d-block mx-auto"
-                />
+               <img src={self} alt="self"/>
               </div>
             </div>
           </div>
