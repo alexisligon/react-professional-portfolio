@@ -1,9 +1,10 @@
-// import books from '../../img/books';
+import books from '../../img/books.jpg';
 
 export default function Portfolio() {
   return (
-    <h1>working???</h1>
+    <div>
+      <img src={books} alt="books"/>
+    </div>
   )
-  // <img src={books} alt='books'/>
   ;
 }
