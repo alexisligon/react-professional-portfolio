@@ -5,16 +5,16 @@ export default function About() {
     <div>
       <h1>About Page</h1>
       <section id="1">
-        <div class="d-flex h-100 align-items-center">
-          <div class="container">
-            <div class="row align-items-center">
-              <div class="col-lg-6 mb-4 mb-lg-0">
-                <header class="text-center">
-                  <h2 class="text-uppercase lined" id="about">
+        <div className="d-flex h-100 align-items-center">
+          <div className="container">
+            <div className="row align-items-center">
+              <div className="col-lg-6 mb-4 mb-lg-0">
+                <header className="text-center">
+                  <h2 className="text-uppercase lined" id="about">
                     About Me
                   </h2>
                 </header>
-                <p class="lead">
+                <p className="lead">
                   I am a full stack web developer looking for opportunities in
                   contributing to a highly collaborative work environment,
                   finding solutions, and determining customer satisfaction. I
@@ -34,8 +34,8 @@ export default function About() {
                   Goose, is my muse and best distraction.
                 </p>
               </div>
-              <div class="col-lg-6">
-               <img src={self} alt="self"/>
+              <div className="col-lg-6">
+               <img src={self} alt="self" className="img-fluid"/>
               </div>
             </div>
           </div>

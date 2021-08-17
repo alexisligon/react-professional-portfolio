@@ -3,9 +3,9 @@ import beachPic from "../../img/beach.jpg"
 function Home() {
   return (
     <div>
- <img src={beachPic} alt="beach" className="img-fluid max-width:100% height:auto"></img>
+      <img src={beachPic} alt="beach" className="img-fluid max-width:100% height:auto"></img>
 
-     </div>
+    </div>
 
   );
 }
