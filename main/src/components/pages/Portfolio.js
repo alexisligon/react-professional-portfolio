@@ -8,30 +8,28 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Portfolio() {
   return (
-    <div className="d-flex h-100 align-items-center">
-      <div className="container">
-        <div className="row">
-          <div>
-          <img src={books} alt="books" className="col-lg-4 col-md-6 mb-4 container"/>
+    <div className="container">
+      <div className="row align-items-center">
+          <div className="col-lg-4 col-md-6 mb-4 container">
+          <img src={books} alt="books" className="img-fluid d-block mx-auto"/>
           </div>
 
-          <div>
+          <div className="row align-items-center">
           <img src={clouds} alt="clouds" className="col-lg-4 col-md-6 mb-4 container"/>
           </div>
 
-          <div>
+          <div className="row align-items-center">
           <img src={food} alt="food" className="col-lg-4 col-md-6 mb-4 container"/>
           </div>
 
-          <div>
+          <div className="row align-items-center">
           <img src={password} alt="password" className="col-lg-4 col-md-6 mb-4 container"/>
           </div>
 
-          <div>
+          <div className="row align-items-center">
           <img src={planner} alt="planner" className="col-lg-4 col-md-6 mb-4 container"/>
           </div>
 
-        </div>
       </div>
     </div>
   )
