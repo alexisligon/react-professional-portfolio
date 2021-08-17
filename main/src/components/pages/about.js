@@ -3,7 +3,6 @@ import self from '../../img/self.jpeg';
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
       <section id="1">
         <div className="d-flex h-100 align-items-center">
           <div className="container">
