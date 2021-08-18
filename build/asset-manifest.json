@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/react-professional-portfolio/static/js/main.4171b82d.chunk.js",
+    "main.js.map": "/react-professional-portfolio/static/js/main.4171b82d.chunk.js.map",
+    "runtime-main.js": "/react-professional-portfolio/static/js/runtime-main.d7c3f9e7.js",
+    "runtime-main.js.map": "/react-professional-portfolio/static/js/runtime-main.d7c3f9e7.js.map",
+    "static/css/2.818011ed.chunk.css": "/react-professional-portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.f16502df.chunk.js": "/react-professional-portfolio/static/js/2.f16502df.chunk.js",
+    "static/js/2.f16502df.chunk.js.map": "/react-professional-portfolio/static/js/2.f16502df.chunk.js.map",
+    "index.html": "/react-professional-portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/react-professional-portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/js/2.f16502df.chunk.js.LICENSE.txt": "/react-professional-portfolio/static/js/2.f16502df.chunk.js.LICENSE.txt",
+    "static/media/beach.e5ef2529.jpg": "/react-professional-portfolio/static/media/beach.e5ef2529.jpg",
+    "static/media/books.aa87cb68.jpg": "/react-professional-portfolio/static/media/books.aa87cb68.jpg",
+    "static/media/clouds.27422ca7.jpg": "/react-professional-portfolio/static/media/clouds.27422ca7.jpg",
+    "static/media/food.d770f620.jpg": "/react-professional-portfolio/static/media/food.d770f620.jpg",
+    "static/media/password.179fc683.jpg": "/react-professional-portfolio/static/media/password.179fc683.jpg",
+    "static/media/planner.e4ddbd00.jpg": "/react-professional-portfolio/static/media/planner.e4ddbd00.jpg",
+    "static/media/self.37bf86c9.jpeg": "/react-professional-portfolio/static/media/self.37bf86c9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c3f9e7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.f16502df.chunk.js",
+    "static/js/main.4171b82d.chunk.js"
+  ]
+}
