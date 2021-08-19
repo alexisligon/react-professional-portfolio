@@ -1,5 +1,4 @@
 import self from '../../img/self.jpeg';
-import FooterDiv from './footer';
 
 export default function About() {
   return (
@@ -41,9 +40,6 @@ export default function About() {
           </div>
         </div>
       </section>
-      <FooterDiv/>
     </div>
   );
 }
-
-// IMAGE PATH NOT WORKING
